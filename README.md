@@ -75,7 +75,7 @@ The trained models can be downloaded via:
     |   +--- SGNN_test.scores2      # reproduced SGNN 
     |   +--- utils.py
 
-Here we provide the PyTorch implementations of our new model EMDF-Net and two baseline models, MCer and SGNN. The SGNN is different from the original one in the parameters and training methods, with others keeping the same. Besides, we also provide some original prediction results for several baselines, which can be directly used to produce the accuracy.
+Here we provide the PyTorch implementations of our new model EMDF-Net and two baseline models, MCer and SGNN. The SGNN and MCer are different from the original ones in the parameters and training methods, with others keeping the same. Besides, we also provide some original prediction results for several baselines, which can be directly used to produce the accuracy.
 
 
 
