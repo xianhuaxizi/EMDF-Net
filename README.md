@@ -1,6 +1,6 @@
 # EMDF-Net
 
-We proposed a new script event prediction model, called *EMDF-Net*. The paper has been submitted for possible publication.
+We proposed a new script event prediction model, called *EMDF-Net*. 
 
 ## Prerequisites
 - linux
